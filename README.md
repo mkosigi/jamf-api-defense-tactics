@@ -8,6 +8,8 @@ Learn how to use Jamf Pro webhooks to automate tasks and integrate with other sy
 Understand how to use extension attributes in Jamf Pro to collect custom data from managed devices, enhancing your device management capabilities.
 ### [Jamf Pro API Overview](https://developer.jamf.com/jamf-pro/docs/jamf-pro-api-overview)
 Get an overview of the Jamf Pro API, including authentication, endpoints, and examples to help you interact programmatically with Jamf Pro.
+### [Jamf Pro SDK for Python](https://github.com/macadmins/jamf-pro-sdk-python)
+A python client library for the Jamf Pro APIs and webhooks.
 ### [AWS API Gateway Documentation](https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html)
 Explore AWS API Gateway, a fully managed service that makes it easy to create, publish, maintain, monitor, and secure APIs at any scale.
 ### [Using AWS Lambda Authorizers with API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
